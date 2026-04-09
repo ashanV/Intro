@@ -53,7 +53,7 @@ The application implements several advanced engineering patterns to ensure a sea
 
 ![Intro App Screenshot](public/screenshot.png)
 
-
+**Link Demo:** https://intro-tau-eight.vercel.app/
 
 ---
 
